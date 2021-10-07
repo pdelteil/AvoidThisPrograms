@@ -1,14 +1,8 @@
-# AvoidThisPrograms
-This is a project intented to help Bug bounty hunters identify bad programs and therefore avoid them. 
+### Objective 
+This is a project intented to help Bug bounty hunters identify bad programs and therefore avoid them, without the burden 
 
-# Objective 
 
-# Curators 
-Philippe Delteil (@philippedelteil)
-
-Retro () 
-
-# Results - Stats 
+### Results - Stats 
 
 Programs will be measured in an (somewhat) objective manner based on:
 
@@ -28,9 +22,15 @@ Medium
 
 Low 
 
-Final score will be the result of: severity_points + 
+Final score will be the result of: severity_points + waiting_time_points + bad_threament_points + bonus_points
 
-# How to help 
+### Curators 
+
+Philippe Delteil (@philippedelteil)
+
+Retro () 
+
+### How to help 
 
 1. Send us a complaint about a program including all relevant data, please remove any information that you consider sensitive or confindential. 
 
