@@ -5,6 +5,7 @@ This is a project intented to help Bug bounty hunters identify bad programs and 
 
 # Curators 
 Philippe Delteil (@philippedelteil)
+
 Retro () 
 
 # Results - Stats 
@@ -20,8 +21,11 @@ Points
 We will be using Intigriti's pointing system for severity scoring. 
 
 Critical
+
 High
+
 Medium
+
 Low 
 
 Final score will be the result of: severity_points + 
