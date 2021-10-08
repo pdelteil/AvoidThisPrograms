@@ -13,16 +13,17 @@ Programs will be measured in an (somewhat) objective manner based on:
 3. Level of bad threament to the reporter.  
 4. Bonus points if the researcher was punished by taking reputation points or other measure. 
 
-Points
+#### Points
 We will be using Intigriti's pointing system for severity scoring. 
+ 
 
-Critical
+| Severity | Points |
+|--|--|
+| Critical  | 40 |
+| High | 30 |
+| Medium | 20 | 
+|Low | 10| 
 
-High
-
-Medium
-
-Low 
 
 Final score will be the result of: severity_points + waiting_time_points + bad_threament_points + bonus_points
 
