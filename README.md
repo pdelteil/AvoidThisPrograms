@@ -31,7 +31,7 @@ Final score will be the result of: severity_points + waiting_time_points + bad_t
 
 Philippe Delteil (@philippedelteil)
 
-Retro () 
+(Want to be part of this project?)
 
 ### How to help 
 
